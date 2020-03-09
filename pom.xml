@@ -34,10 +34,6 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <executions>
                     <execution>
-                        <id>default-compile</id>
-                        <phase>compile</phase>
-                    </execution>
-                    <execution>
                         <id>error-prone-compile</id>
                         <phase>compile</phase>
                         <goals>
